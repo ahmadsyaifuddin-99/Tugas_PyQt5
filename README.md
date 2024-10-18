@@ -3,7 +3,7 @@
 
 
 >[!note]
-> Ahmad Syaifuddin - 2210010111 (Tugas Visual 3 pertemuan 4)
+> Ahmad Syaifuddin - 2210010111 (Tugas Visual 3 pertemuan 4 PyQt5 & Qt Designer)
 >
 > 5E Reg Pagi
 <br>
